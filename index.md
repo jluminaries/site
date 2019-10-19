@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<html>
+<html lang="en">
+<!--Charset--!>
 
-You can use the [editor on GitHub](https://github.com/jluminaries/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head><meta https-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>%%%%%%%</title>
+<META NAME="AUTHOR" CONTENT="J. Luminaries">
+<META NAME="DESCRIPTION" CONTENT="%%%%%%%">
+<META NAME="KEYWORDS" CONTENT="">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body bgcolor="000000">
+<STYLE TYPE="text/css">
+BODY{
+scrollbar-arrow-color:#ff0000; 
+scrollbar-base-color:#000000;
+scrollbar-shadow-color: #ff0000;  
+scrollbar-highlight-color: #ff0000; 
+scrollbar-track-color: #000000; 
+}
+</style>  
+<font color="ffffff"><center><img src="https://pasteboard.co/ICIj3eD.gif"></center>
+<P><center><font color="ffffff"><font size="5">"DO YOU BELIEVE IN A HIGHER PURPOSE?"
 
-### Markdown
+<P><font color="ffbe10"><font size="4">If you are viewing this webpage, you may be a part of it.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jluminaries/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<P><a href="https://www.google.com"><font color="ffffff"><font size="5"><U>CONTACT US</u></center>
